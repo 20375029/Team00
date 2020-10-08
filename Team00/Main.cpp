@@ -1,6 +1,6 @@
 #include <stdio.h>
-
-int main ()
+#include "A.h"
+int main()
 {
-	printf( "Hello World" ) ;
+	APrint();
 }
