@@ -2,5 +2,5 @@
 #include <stdio.h>
 void APrint()
 {
-	printf("Z\n");
+	printf("X\n");
 }
